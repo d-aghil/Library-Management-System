@@ -19,9 +19,9 @@ A simple console-based application written in C++ to manage library operations. 
 4. Return Book
 5. Save and Exit
 
-Enter your choice: 1
-Enter title: The Great Gatsby
-Enter author: F. Scott Fitzgerald
-Enter ISBN: 9780743273565
-Book added successfully.
+- Enter your choice: 1
+- Enter title: The Great Gatsby
+- Enter author: F. Scott Fitzgerald
+- Enter ISBN: 9780743273565
+- Book added successfully.
 
