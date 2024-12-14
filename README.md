@@ -24,14 +24,3 @@ A simple console-based application written in C++ to manage library operations. 
     Enter ISBN: 9780743273565
     Book added successfully.
 
-Library-Management-System/
-├── src/                      # Contains all the C++ source code files
-│   ├── main.cpp              # Main program logic
-│   ├── Book.h                # Header file for the Book class
-│   ├── Library.h             # Header file for the Library class
-├── data/                     # Contains any data files used by the program
-│   └── library_data.txt      # Sample data file with book details
-├── README.md                 # Documentation explaining the project
-
-
-
